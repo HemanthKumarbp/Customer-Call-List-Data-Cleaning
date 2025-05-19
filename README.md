@@ -21,4 +21,4 @@ The dataset contains customer call records with fields such as customer name, ph
 ## How to Run
 1. Clone the repository  
    ```bash
-   git clone <[repo-url](https://github.com/HemanthKumarbp/Customer-Call-List-Data-Cleaning/tree/main)>
+   git clone (https://github.com/HemanthKumarbp/Customer-Call-List-Data-Cleaning/tree/main)
